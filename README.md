@@ -35,3 +35,9 @@ Git
 GitHub
 
 ## OUTPUT:
+
+<img width="1897" height="860" alt="Image" src="https://github.com/user-attachments/assets/408b43cc-bc20-4ad8-bf03-9b6c5084d4e5" />
+
+<img width="1877" height="863" alt="Image" src="https://github.com/user-attachments/assets/5208a0ea-be16-4da9-8dfa-464c0f120754" />
+
+<img width="1865" height="847" alt="Image" src="https://github.com/user-attachments/assets/86bee77b-c380-4eaa-a621-d07eaee1e76c" />
